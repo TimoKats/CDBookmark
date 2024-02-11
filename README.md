@@ -1,6 +1,6 @@
 # CDBookmark
 
-CDBookmark is a shell script that allows you to bookmark directories and easily change to them with one command. 
+CDBookmark is a shell script that allows you to bookmark directories and easily change to them with one command. You can watch a 2 minute demo of this script in this [video](https://www.loom.com/share/7f7b28c1c139461c86092804a1f8eb3a?sid=24e51257-5cd7-4428-b407-97bcbed8dc50).
 
 ### Setup
 

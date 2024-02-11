@@ -64,7 +64,7 @@ delete_bookmark() {
 }
 
 init_bookmarks() {
-  cat > $BOOKMARK_FILE
+  echo -n "" > $BOOKMARK_FILE
 }
 
 allocate_function() {
